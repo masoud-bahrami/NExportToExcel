@@ -1,7 +1,0 @@
-C:\Workspaces\NExportToExcell\NExportToExcell\bin\Debug\NExportToExcell.exe.config
-C:\Workspaces\NExportToExcell\NExportToExcell\bin\Debug\NExportToExcell.exe
-C:\Workspaces\NExportToExcell\NExportToExcell\bin\Debug\NExportToExcell.pdb
-C:\Workspaces\NExportToExcell\NExportToExcell\obj\Debug\NExportToExcell.csprojResolveAssemblyReference.cache
-C:\Workspaces\NExportToExcell\NExportToExcell\obj\Debug\NExportToExcell.exe
-C:\Workspaces\NExportToExcell\NExportToExcell\obj\Debug\NExportToExcell.pdb
-C:\Workspaces\NExportToExcell\NExportToExcell\bin\Debug\NExportToExcel.exe.config
